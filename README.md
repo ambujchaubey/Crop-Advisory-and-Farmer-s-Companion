@@ -15,8 +15,7 @@ Agriwise is a platform designed to assist farmers in the agricultural process, f
 - **Kotlin**: The primary programming language used for developing the Agriwise Android application.
 - **Android SDK**: The Android Software Development Kit provides a set of tools and libraries to develop Android applications.
 - **Retrofit**: Used for efficient networking and API communication with the backend server.
-- **Google Maps API**: Integrated for location-based features and mapping functionality.
-- **Weather API**: Weather API to retrieve weather data, such as temperature and humidity
+
 
 ## Development Process
 
