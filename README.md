@@ -1,4 +1,4 @@
-# Agriwise Android Application
+# Crop Advisory and farmer companion
 
 Agriwise is a platform designed to assist farmers in the agricultural process, from planting to harvest. It leverages AI technology to provide valuable insights and recommendations to optimize crop yield and enhance farming efficiency.
 
